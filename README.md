@@ -1,7 +1,7 @@
 # StopWatch
 
 ## Description
-This program displays a digital timer that counts down to zero. Instead of rendering numeric characters, it supports a seven-segment display, just like in digital clocks. Users can enter the starting countdown time and quick the program anytime in the middle.
+This program displays a digital timer that counts down to zero. Instead of rendering numeric characters, it supports a seven-segment display, just like in digital clocks. Users can enter the starting countdown time and quit the program anytime in the middle.
 
 ## Prerequisite
 No prerequisite needed :)
